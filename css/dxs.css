@@ -1,0 +1,67 @@
+/* CSS Document */
+
+.main{
+    width:100%;
+	margin:0 auto;
+    background-repeat:no-repeat;
+    background-attachment:fixed;/*背景固定*/
+    background-position:0px -700px;
+    overflow:hidden;/*内容溢出隐藏*/
+
+}
+.banner1{
+	background-attachment: fixed;
+	background-image:url(../imgs/bzg2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%  700px;
+	height:700px;
+	width:100%;
+	}
+.top-txt1{
+    width:80%;
+	height:500px;
+	margin-top:-70px;
+    margin-left:200px;
+    margin-bottom:150px;
+	text-align:center;
+
+   
+
+	padding-top:0px;
+	padding-left:10px;
+	padding-right:10px;
+
+    box-shadow:10px 20px 100px #a2a3a0;
+}
+.txt1{
+	width:100%;
+	height:400px;
+	}
+.txt2{
+	width:40%;
+	height:398px;
+	float:left;
+	padding-top:50px;
+	}
+.txt3{
+		width:60%;
+	height:398px;
+	float:left;
+	padding-top:50px;
+	text-align:left;
+	
+	}
+.txx4{
+	
+	   width:100%;
+	   height:80px;
+	   background-color:#E5CD68;
+	   padding-top:23px;
+	   
+	}
+.txx5{
+	width:100%;
+	height:50px;
+	
+	
+	}
